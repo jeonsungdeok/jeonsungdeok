@@ -61,7 +61,7 @@ Looking forward to your contact!<br><br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </br>
 </div>
-<h1>야야야야야</h1>
+<h1>junior  developer</h1>
 </br>
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=jeonsungdeok&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" style="width: 100%" />
