@@ -14,9 +14,10 @@ I'm interested in `Web`, `cloud`, `techs`<br><br>
 Looking forward to your contact!<br><br>
 --!>
 
+<!--
 <b>😀 About Me 😀<b>
 </br></br>
- 
+ --!>
     
 
 
