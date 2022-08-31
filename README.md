@@ -45,7 +45,7 @@ Looking forward to your contact!<br><br>
 </br>
 <!--DB & 협업툴 --!>
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=OracleDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A2
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </br>
 <!-- 툴 --!>
