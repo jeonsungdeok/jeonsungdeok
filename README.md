@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=%20Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jeon%20Sung%20Deok%20GitHub&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jeon%20Sung%20Deok%20GitHub&descAlignY=51&descAlign=62)
 
 
 <div align="center">
